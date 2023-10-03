@@ -1,1 +1,11 @@
-# 30-days-js
+# [30 days of Javascript](https://leetcode.com/studyplan/30-days-of-javascript/)
+
+## Day 1
+
+### [Hello World](/day-1/hello-world.js) *[Link](https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+### [Counter](/day-1/counter.js) *[Link](https://leetcode.com/problems/counter/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+### [To Be Or Not To Be](/day-1/tobe-or-nottobe.js) *[Link](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript)
+
+### [Counter](/day-1/counter-2.js) *[Link](https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript)*
