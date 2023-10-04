@@ -9,3 +9,7 @@
 ### [To Be Or Not To Be](/day-1/tobe-or-nottobe.js) *[Link](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript)
 
 ### [Counter](/day-1/counter-2.js) *[Link](https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+### [Array Transform](/day-2/array-transform.js) *[Link](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+### [Array Filter](/day-2/filter-array.js) *[Link](https://leetcode.com/problems/filter-elements-from-array/submissions/?envType=study-plan-v2&envId=30-days-of-javascript)*
