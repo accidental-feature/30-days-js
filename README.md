@@ -15,3 +15,5 @@
 ### [Array Filter](/day-2/filter-array.js) *[Link](https://leetcode.com/problems/filter-elements-from-array/submissions/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ### [Array Reduce](/day-3/reduce-array.js) *[Link](https://leetcode.com/problems/array-reduce-transformation/submissions/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+### [Function Composition](/day-4/function-composition.js) *[Link](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
