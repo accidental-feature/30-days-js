@@ -13,3 +13,5 @@
 ### [Array Transform](/day-2/array-transform.js) *[Link](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ### [Array Filter](/day-2/filter-array.js) *[Link](https://leetcode.com/problems/filter-elements-from-array/submissions/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+### [Array Reduce](/day-3/reduce-array.js) *[Link](https://leetcode.com/problems/array-reduce-transformation/submissions/?envType=study-plan-v2&envId=30-days-of-javascript)*
