@@ -17,3 +17,7 @@
 ### [Array Reduce](/day-3/reduce-array.js) *[Link](https://leetcode.com/problems/array-reduce-transformation/submissions/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ### [Function Composition](/day-4/function-composition.js) *[Link](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+### [Length of Arguments](/day-5/args-length.js) *[Link](https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+`I thought Day 5 was a trick question.`
