@@ -21,3 +21,5 @@
 ### [Length of Arguments](/day-5/args-length.js) *[Link](https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 `I thought Day 5 was a trick question.`
+
+### [Allow One Function Call](/day-6/one-function.js) *[Link](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
