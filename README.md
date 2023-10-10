@@ -25,3 +25,5 @@
 ### [Allow One Function Call](/day-6/one-function.js) *[Link](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ### [Memoize](/day-7/memoize.js) *[Link](https://leetcode.com/problems/memoize/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+#### [Add Two Promises](/day-8/add-two-promises.js) *[Link](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
