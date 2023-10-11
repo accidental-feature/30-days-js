@@ -27,3 +27,5 @@
 ### [Memoize](/day-7/memoize.js) *[Link](https://leetcode.com/problems/memoize/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 #### [Add Two Promises](/day-8/add-two-promises.js) *[Link](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+### [Sleep](/day-9/sleep.js) *[Link](https://leetcode.com/problems/sleep/?envType=study-plan-v2&envId=30-days-of-javascript)*
