@@ -31,3 +31,5 @@
 ### [Sleep](/day-9/sleep.js) *[Link](https://leetcode.com/problems/sleep/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ### [Timeout Cancellation](/day-10/timeout-cancel.js) *[Link](https://leetcode.com/problems/timeout-cancellation/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+### [Interval Cancellation](/day-11/interval-cancel.js) *[Link](https://leetcode.com/problems/interval-cancellation/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
