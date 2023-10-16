@@ -37,3 +37,5 @@
 ### [Promise Time Limit](/day-12/promise-time-limit.js) *[Link](https://leetcode.com/problems/promise-time-limit/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ### [Cache with Time Limit](/day-13/cache-time-limit.js) *[Link](https://leetcode.com/problems/cache-with-time-limit/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+### [Debounce](/day-14/debounce.js) *[Link](https://leetcode.com/problems/debounce/?envType=study-plan-v2&envId=30-days-of-javascript)*
