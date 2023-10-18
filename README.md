@@ -18,8 +18,6 @@
 
 ## [Length of Arguments](/day-5/args-length.js) *[Link](https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-`I thought Day 5 was a trick question.`
-
 ## [Allow One Function Call](/day-6/one-function.js) *[Link](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ## [Memoize](/day-7/memoize.js) *[Link](https://leetcode.com/problems/memoize/?envType=study-plan-v2&envId=30-days-of-javascript)*
@@ -39,3 +37,5 @@
 ## [Debounce](/day-14/debounce.js) *[Link](https://leetcode.com/problems/debounce/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ## [Execute Asynchronous Functions in Parallel](/day-15/parallel-async-functions.js) *[Link](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/?submissionId=1077108100)*
+
+### [Is Object Empty](/day-16/is-object-empty.js) *[Link](https://leetcode.com/problems/is-object-empty/?envType=study-plan-v2&envId=30-days-of-javascript)*
