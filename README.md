@@ -1,30 +1,30 @@
 # [30 days of Javascript](https://leetcode.com/studyplan/30-days-of-javascript/)
 
-## [Hello World](/day-1/hello-world.js) *[Link](https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Hello World](/day-01/hello-world.js) *[Link](https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-## [Counter](/day-1/counter.js) *[Link](https://leetcode.com/problems/counter/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Counter](/day-01/counter.js) *[Link](https://leetcode.com/problems/counter/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ## [To Be Or Not To Be](/day-1/tobe-or-nottobe.js) *[Link](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript)
 
-## [Counter](/day-1/counter-2.js) *[Link](https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Counter](/day-01/counter-2.js) *[Link](https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-## [Array Transform](/day-2/array-transform.js) *[Link](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Array Transform](/day-02/array-transform.js) *[Link](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-## [Array Filter](/day-2/filter-array.js) *[Link](https://leetcode.com/problems/filter-elements-from-array/submissions/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Array Filter](/day-02/filter-array.js) *[Link](https://leetcode.com/problems/filter-elements-from-array/submissions/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-## [Array Reduce](/day-3/reduce-array.js) *[Link](https://leetcode.com/problems/array-reduce-transformation/submissions/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Array Reduce](/day-03/reduce-array.js) *[Link](https://leetcode.com/problems/array-reduce-transformation/submissions/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-## [Function Composition](/day-4/function-composition.js) *[Link](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Function Composition](/day-04/function-composition.js) *[Link](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-## [Length of Arguments](/day-5/args-length.js) *[Link](https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Length of Arguments](/day-05/args-length.js) *[Link](https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-## [Allow One Function Call](/day-6/one-function.js) *[Link](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Allow One Function Call](/day-06/one-function.js) *[Link](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-## [Memoize](/day-7/memoize.js) *[Link](https://leetcode.com/problems/memoize/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Memoize](/day-07/memoize.js) *[Link](https://leetcode.com/problems/memoize/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-### [Add Two Promises](/day-8/add-two-promises.js) *[Link](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
+### [Add Two Promises](/day-08/add-two-promises.js) *[Link](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-## [Sleep](/day-9/sleep.js) *[Link](https://leetcode.com/problems/sleep/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Sleep](/day-09/sleep.js) *[Link](https://leetcode.com/problems/sleep/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ## [Timeout Cancellation](/day-10/timeout-cancel.js) *[Link](https://leetcode.com/problems/timeout-cancellation/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
