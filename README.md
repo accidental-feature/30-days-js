@@ -22,7 +22,7 @@
 
 ## [Memoize](/day-07/memoize.js) *[Link](https://leetcode.com/problems/memoize/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-### [Add Two Promises](/day-08/add-two-promises.js) *[Link](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Add Two Promises](/day-08/add-two-promises.js) *[Link](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ## [Sleep](/day-09/sleep.js) *[Link](https://leetcode.com/problems/sleep/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
@@ -38,8 +38,10 @@
 
 ## [Execute Asynchronous Functions in Parallel](/day-15/parallel-async-functions.js) *[Link](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/?submissionId=1077108100)*
 
-### [Is Object Empty](/day-16/is-object-empty.js) *[Link](https://leetcode.com/problems/is-object-empty/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Is Object Empty](/day-16/is-object-empty.js) *[Link](https://leetcode.com/problems/is-object-empty/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-### [Chunk Array](/day-17/chunk-array.js) *[Link](https://leetcode.com/problems/chunk-array/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Chunk Array](/day-17/chunk-array.js) *[Link](https://leetcode.com/problems/chunk-array/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
-### [Array Prototype Last](/day-18/array-prototype-last.js) *[Link](https://leetcode.com/problems/array-prototype-last/?envType=study-plan-v2&envId=30-days-of-javascript)*
+## [Array Prototype Last](/day-18/array-prototype-last.js) *[Link](https://leetcode.com/problems/array-prototype-last/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+## [Grouped By](/day-19/grouped-by.js) *[Link](https://leetcode.com/problems/group-by/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
