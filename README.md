@@ -45,3 +45,5 @@
 ## [Array Prototype Last](/day-18/array-prototype-last.js) *[Link](https://leetcode.com/problems/array-prototype-last/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ## [Grouped By](/day-19/grouped-by.js) *[Link](https://leetcode.com/problems/group-by/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+## [Sort By](/day-20/sort-by.js) *[Link](https://leetcode.com/problems/sort-by/?envType=study-plan-v2&envId=30-days-of-javascript)*
