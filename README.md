@@ -47,3 +47,5 @@
 ## [Grouped By](/day-19/grouped-by.js) *[Link](https://leetcode.com/problems/group-by/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ## [Sort By](/day-20/sort-by.js) *[Link](https://leetcode.com/problems/sort-by/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+## [Join Two Arrays by ID](/day-21/join-two-arrays.js) *[Link](https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
