@@ -55,3 +55,5 @@
 ## [Compact Object](/day-23/compact-object.js) *[Link](https://leetcode.com/problems/compact-object/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ## [Event Emitter](/day-24/event-emitter.js) *[Link](https://leetcode.com/problems/event-emitter/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+## [Array Wrapper](/day-25/array-wrapper.js) *[Link](https://leetcode.com/problems/array-wrapper/?envType=study-plan-v2&envId=30-days-of-javascript)*
