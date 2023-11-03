@@ -57,3 +57,5 @@
 ## [Event Emitter](/day-24/event-emitter.js) *[Link](https://leetcode.com/problems/event-emitter/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ## [Array Wrapper](/day-25/array-wrapper.js) *[Link](https://leetcode.com/problems/array-wrapper/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+## [Calculator with Method Chaining](/day-26/calculator.js) *[Link](https://leetcode.com/problems/calculator-with-method-chaining/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
