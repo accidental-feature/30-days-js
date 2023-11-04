@@ -59,3 +59,5 @@
 ## [Array Wrapper](/day-25/array-wrapper.js) *[Link](https://leetcode.com/problems/array-wrapper/?envType=study-plan-v2&envId=30-days-of-javascript)*
 
 ## [Calculator with Method Chaining](/day-26/calculator.js) *[Link](https://leetcode.com/problems/calculator-with-method-chaining/description/?envType=study-plan-v2&envId=30-days-of-javascript)*
+
+## [Median Sorted Array](/day-27/median-sorterd-arr.js) *[Link](https://leetcode.com/problems/median-of-two-sorted-arrays/)*
